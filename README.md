@@ -1,4 +1,7 @@
+<img src="socsuog.png" width="200"/>
+
 # Hungry birds - Classification of blue tit nestling diet from video footage using machine learning
+## Emma Poliakova
 
 Computer vision in ecology is becoming increasingly popular as an efficient tool to analyze large data sets from wild populations. For instance, automating classification of behaviours from video footage can increase the breadth, duration, and repeatability of ecological studies, and removes the image processing bottleneck. Additionally, automated
 systems provide a non-invasive way to observe wildlife and avoid the disruption created by catching and sampling individual birds. This work presents a novel machine-learning
